@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="shopping-cart-sobre-o-projeto">Sobre o Projeto</a> | 
+  <a href="#shopping-cart-sobre-o-projeto">Sobre o Projeto</a> | 
   <a href="#computer-tecnologias">Tecnologias Usadas</a> | 
   <a href="#bug-problemas">Problemas</a>
 </p>
