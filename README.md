@@ -12,6 +12,8 @@
   <a href="#bug-problemas">Problemas</a>
 </p>
 
+<img src="https://res.cloudinary.com/dtgimo0rh/image/upload/v1745035037/celular-computador-imagem_txr5d0.png">
+
 <br>
 
 ## :shopping_cart: Sobre o Projeto
